@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Branding SF";
+  src:
+    url("/fonts/brandingsf/BrandingSF-Black.ttf") format("truetype"),
+    url("/fonts/brandingsf/BrandingSF-BlackItalic.ttf"),
+    url("/fonts/brandingsf/BrandingSF-Bold.ttf"),
+    url("/fonts/brandingsf/BrandingSF-BoldItalic.ttf"),
+    url("/fonts/brandingsf/BrandingSF-Light.ttf"),
+    url("/fonts/brandingsf/BrandingSF-LightItalic.ttf"),
+    url("/fonts/brandingsf/BrandingSF-Medium.ttf"),
+    url("/fonts/brandingsf/BrandingSF-MediumItalic.ttf"),
+    url("/fonts/brandingsf/BrandingSF-SemiBold.ttf"),
+    url("/fonts/brandingsf/BrandingSF-SemiBoldItalic.ttf"),
+    url("/fonts/brandingsf/BrandingSF-SemiLight.ttf"),
+    url("/fonts/brandingsf/BrandingSF-SemiLightItalic.ttf"),
+    url("/fonts/brandingsf/BrandingSF-Thin.ttf"),
+    url("/fonts/brandingsf/BrandingSF-ThinItalic.ttf");
+}
+* {
+  font-family: "Branding SF";
+}
