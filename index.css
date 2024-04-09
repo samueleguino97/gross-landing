@@ -1,26 +1,90 @@
 @font-face {
   font-family: "Branding SF";
-  src:
-    url("/public/fonts/brandingsf/BrandingSF-Black.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-BlackItalic.ttf")
-      format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-Bold.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-BoldItalic.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-Light.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-LightItalic.ttf")
-      format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-Medium.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-MediumItalic.ttf")
-      format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-SemiBold.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-SemiBoldItalic.ttf")
-      format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-SemiLight.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-SemiLightItalic.ttf")
-      format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-Thin.ttf") format("truetype"),
-    url("/public/fonts/brandingsf/BrandingSF-ThinItalic.ttf") format("truetype");
+  src: url("/public/fonts/brandingsf/BrandingSF-Black.ttf") format("truetype");
+  font-weight: 900;
 }
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-BlackItalic.ttf")
+    format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-BoldItalic.ttf")
+    format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-LightItalic.ttf")
+    format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-MediumItalic.ttf")
+    format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-SemiBold.ttf")
+    format("truetype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-SemiBoldItalic.ttf")
+    format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-SemiLight.ttf")
+    format("truetype");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-SemiLightItalic.ttf")
+    format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-Thin.ttf") format("truetype");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Branding SF";
+  src: url("/public/fonts/brandingsf/BrandingSF-ThinItalic.ttf")
+    format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+
 * {
   font-family: "Branding SF";
 }
