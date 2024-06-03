@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/public/menu.html",
+      "destination": "https://menu.gross.cafe",
+      "permanent": true
+    }
+  ]
+}
